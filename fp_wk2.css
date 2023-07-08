@@ -125,7 +125,7 @@ NAV
 
 .nav__link {
   margin: 0 24px;
-  padding: 0 0 4px 0;
+  padding: 0 0 4px;
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0.025em;
