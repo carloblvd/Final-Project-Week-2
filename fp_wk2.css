@@ -538,12 +538,12 @@ PRICING
 .pricing__plans {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .pp {
   padding: 0.5rem 2rem 0;
-  margin: 4rem 2rem 0 0;
+  margin: 4rem 0 0 0;
   width: 31%;
   border: 2px solid rgb(226, 232, 240);
   border-radius: 0.5rem;
@@ -1024,6 +1024,10 @@ FOOTER
 
   .header__footer {
     margin: 48px 0 0;
+  }
+
+  .features__item {
+    width: 100%;
   }
 
   .af__content--wrapper {
